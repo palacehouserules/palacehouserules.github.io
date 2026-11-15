@@ -1,0 +1,7 @@
+# GitHub Pages settings for Palace's website: home, privacy, support and press kit.
+# Served from the public repository palacehouserules/palacehouserules.github.io at https://palacehouserules.github.io (RELEASE.md).
+title: "Palace: House Rules"
+description: "Palace: House Rules, the classic card game with your rules. Also known as Shed or Karma."
+theme: jekyll-theme-minimal
+# The one place to set the support address; every page uses it.
+support_email: "palacehouserules@gmail.com"
